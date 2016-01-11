@@ -1,10 +1,9 @@
 ---
 layout: post
-title: You're up and running!
+title: Primer post en GitHub
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Mudé mi blog a GitHub para empezar una nueva etapa. Este medio es más adecuado para compartir y trabajar en conjunto en códigos en cualquier lenguaje de programación (R en mi caso). 
+* El uso de Markdown facilita muchísimo colocar post en el blog que contengan código. Cada post puede además asociarse a un proyecto específico.
+* Intentaré que mis trabajos de investigación sean más reproducibles, poniendo a disposición las rutinas de análisis, además de los datos originales.
+* Más allá de los códigos de análisis de datos, en Github puedo albergar código de paquetes en desarrollo (mediante su integración con RStudio) y código con fines educativos.
