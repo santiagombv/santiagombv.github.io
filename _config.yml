@@ -31,6 +31,7 @@ footer-links:
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
   researchgate: profile/Santiago_Benitez-Vieyra
+  googlescholar: citations?user=W51uUzUAAAAJ&hl=es
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
