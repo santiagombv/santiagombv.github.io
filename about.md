@@ -4,11 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am associate researcher in the Evolutionary Ecology Lab, at the Multidisciplinary Institute of Plant Biology (National University of Córdoba – CONICET, Argentina).   
+     
+*Soy investigador adjunto en el Laboratorio de Ecología Evolutiva, del Instituto Multidisciplinario de Biología Vegetal (Universidad Nacional de Córdoba - CONICET, Argentina).* 
 
 ### Contact me
 
