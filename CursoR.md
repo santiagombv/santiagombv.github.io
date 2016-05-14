@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curso Introducción al Lenguaje R. Modelos Lineales y Fundamentos de Programación
+title: Curso Introducción al Lenguaje R.
 permalink: /CursoR/
 published: true
 ---
@@ -11,5 +11,3 @@ published: true
 
 ## Repo del curso.
 Descarga de todo el material práctico [aquí](https://github.com/santiagombv/cursoR/archive/master.zip)
-
-
