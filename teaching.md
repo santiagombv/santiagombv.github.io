@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Curso R
+title: teaching
 permalink: /cursoR/
 published: true
 ---
