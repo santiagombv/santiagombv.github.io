@@ -6,7 +6,7 @@ published: true
 ---
 ## Links a las clases teóricas.
 - [Clase 1](http://santiagombv.github.io/TeorR/teor1)
-- Clase 2
+- [Clase 2](http://santiagombv.github.io/TeorR/teor2s)
 - Clase 3
 
 ## Repo del curso.
