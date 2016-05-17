@@ -7,7 +7,7 @@ published: true
 ## Links a las clases teóricas.
 - [Clase 1](http://santiagombv.github.io/TeorR/teor1)
 - [Clase 2](http://santiagombv.github.io/TeorR/teor2s)
-- Clase 3
+- [Clase 3](http://santiagombv.github.io/TeorR/teor3)
 
 ## Repo del curso.
 Descarga de todo el material práctico [aquí](https://github.com/santiagombv/cursoR/archive/master.zip)
