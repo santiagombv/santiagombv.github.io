@@ -10,6 +10,7 @@ published: true
 - [Clase 3](http://santiagombv.github.io/TeorR/teor3)
 - [Clase 4](http://santiagombv.github.io/TeorR/teor4)
 - [Clase 5](http://santiagombv.github.io/TeorR/teor5)
+- [Clase 6](http://santiagombv.github.io/TeorR/teor6)
 
 ## [Link](https://github.com/santiagombv/cursoR/) al repo del curso.
 Descarga de todo el material práctico [aquí](https://github.com/santiagombv/cursoR/archive/master.zip)
