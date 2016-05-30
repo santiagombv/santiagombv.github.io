@@ -5,13 +5,13 @@ permalink: /about/
 published: true
 ---
 
-I am associate researcher at the [Evolutionary Ecology Lab](http://www.efn.uncor.edu/departamentos/divbioeco/otras/bioflor/), (IMBIV, [National University of Córdoba](http://www.unc.edu.ar/) – [CONICET](http://www.conicet.gov.ar/), Argentina).
-The aim of my research program is understandig how the multivariate floral phenotype evolves and, specially, how these complex traits change during speciation process. Most of the methods I use involve R programming and advanced statistics.
-The extremely diversified [Neotropical *Salvia* species](https://www.flickr.com/photos/116058867@N03/albums/72157640372112274) provide a wonderful system to study pollinator-mediated adaptive radiation and ongoing process of speciation in focal species (but I also like orchids!). In particular, I am interested in the evolution of traits that interact among them to perform a function.  
+I am an associate researcher at the [Evolutionary Ecology Lab](http://www.efn.uncor.edu/departamentos/divbioeco/otras/bioflor/), (IMBIV, [National University of Córdoba](http://www.unc.edu.ar/) – [CONICET](http://www.conicet.gov.ar/), Argentina).
+The aim of my research program is the comprehension of how the multivariate floral phenotype evolves and, specially, how these complex traits change during a speciation process. Most of the methods I use involve R programming and advanced statistics.
+The extremely diversified [Neotropical *Salvia* species](https://www.flickr.com/photos/116058867@N03/albums/72157640372112274) provide an ideal system to study pollinator-mediated adaptive radiation, and ongoing process of speciation in some species (but I also like orchids!). In particular, I am interested in the evolution of traits that interact among them to perform a complex function.  
     
 * Floral honesty. This complex trait results from the simultaneous expression of within-individual variability in floral reward and floral signals. I have published two papers ([here](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2010.02132.x/full) and [here](http://rspb.royalsocietypublishing.org/content/281/1782/20132934.short)) about the evolution of this trait in a macro and microevolutionary context.      
-* Phenotypic integration. Floral traits have to work together to perform pollen delivery and reception, but what does selection promote, integration or modularity? Transitions between pollination systems can be used to examined changes in phenotypic integration and variance-covariance matrix structure.   
-* Inflorescence function. Flowers are not alone within a plant, and it is obvious that inflorescence architecture evolves. Why? Different pollinator guilds may select for how sexual functions and floral rewards arrange within an inflorescence.   
+* Phenotypic integration. Floral traits have to work together to perform pollen delivery and reception; but what does selection promote, integration or modularity? Transitions between pollination systems can be used to examined changes in the phenotypic integration and the variance-covariance matrix structure.   
+* Function of inflorescences. Plants usually have many flowers arranged in inflorescences, and it is obvious that inflorescence architecture evolves. Why? Different pollinator guilds may select how sexual functions and floral rewards arrange within inflorescences.   
 
     
         
