@@ -11,7 +11,7 @@ The extremely diversified [Neotropical *Salvia* species](https://www.flickr.com/
     
 * Floral honesty. This complex trait results from the simultaneous expression of within-individual variability in floral reward and floral signals. I have published two papers ([here](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2010.02132.x/full) and [here](http://rspb.royalsocietypublishing.org/content/281/1782/20132934.short)) about the evolution of this trait in a macro and microevolutionary context.      
 * Phenotypic integration. Floral traits have to work together to perform pollen delivery and reception; but what does selection promote, integration or modularity? Transitions between pollination systems can be used to examined changes in the phenotypic integration and the variance-covariance matrix structure.   
-* Function of inflorescences. Plants usually have many flowers arranged in inflorescences, and it is obvious that inflorescence architecture evolves. Why? Different pollinator guilds may select how sexual functions and floral rewards arrange within inflorescences.   
+* Function of inflorescences. Plants usually have many flowers arranged in inflorescences, and it is obvious that inflorescence architecture evolves. Why this happens? Different pollinator guilds may select how sexual functions and floral rewards are arranged within inflorescences.   
 
     
         
