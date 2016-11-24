@@ -12,10 +12,10 @@ published: true
 - [Clase 5](http://santiagombv.github.io/TeorR/teor5)
 - [Clase 6](http://santiagombv.github.io/TeorR/teor6)
 
-## Link al [repo](https://github.com/santiagombv/Bioestadistica/) del curso.
+## Link al [repo](https://github.com/santiagombv/Bioestadistica/) del curso.    
 ## Descarga de todo el material práctico [aquí](https://github.com/santiagombv/Bioestadistica/archive/master.zip)   
 
-Curso de posgrado.
-Doctorado en Ciencias Biomédicas
-Universidad Mayor, Real y Pontificia san Francisco Xavier de Chuquisaca
-Diciembre de 2016
+Curso de posgrado.   
+Doctorado en Ciencias Biomédicas.   
+Universidad Mayor, Real y Pontificia san Francisco Xavier de Chuquisaca.   
+Diciembre de 2016.   
