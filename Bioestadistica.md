@@ -18,5 +18,5 @@ published: true
 
 Curso de posgrado.   
 Doctorado en Ciencias Biomédicas.   
-Universidad Mayor, Real y Pontificia san Francisco Xavier de Chuquisaca.   
+Universidad Mayor, Real y Pontificia San Francisco Xavier de Chuquisaca.   
 Diciembre de 2016.   
