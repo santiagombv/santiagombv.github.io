@@ -12,9 +12,9 @@ published: true
 - [Clase 5](http://santiagombv.github.io/TeorR/teor5)
 - [Clase 6](http://santiagombv.github.io/TeorR/teor6)
 
-## Link al [repo](https://github.com/santiagombv/Bioestadistica/) del curso.   
-
 ## Descarga de todo el material práctico [aquí](https://github.com/santiagombv/Bioestadistica/archive/master.zip).   
+
+## Link al [repo](https://github.com/santiagombv/Bioestadistica/) del curso.   
 
 Curso de posgrado.   
 Doctorado en Ciencias Biomédicas.   
