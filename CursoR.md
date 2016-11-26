@@ -12,5 +12,6 @@ published: true
 - [Clase 5](http://santiagombv.github.io/TeorR/teor5)
 - [Clase 6](http://santiagombv.github.io/TeorR/teor6)
 
-## [Link](https://github.com/santiagombv/cursoR/) al repo del curso.
-Descarga de todo el material práctico [aquí](https://github.com/santiagombv/cursoR/archive/master.zip)
+## Descarga de todo el material práctico [aquí](https://github.com/santiagombv/cursoR/archive/master.zip)   
+
+## [Link](https://github.com/santiagombv/cursoR/) al repo del curso.   
