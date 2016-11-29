@@ -5,7 +5,7 @@ permalink: /disenmet/
 published: true
 ---
 ## Links a las clases teóricas.
-- Clase 1
+- [Clase 1](http://santiagombv.github.io/TeorR/Dteor1)
 - Clase 2
 - Clase 3
 - Clase 4
