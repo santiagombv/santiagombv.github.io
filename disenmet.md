@@ -6,8 +6,8 @@ published: true
 ---
 ## Links a las clases teóricas.
 - [Clase 1](http://santiagombv.github.io/TeorR/Dteor1)
-- Clase 2
-- Clase 3
+- [Clase 2](http://santiagombv.github.io/TeorR/Dteor2)
+- [Clase 3](http://santiagombv.github.io/TeorR/Dteor3)
 - Clase 4
 - Clase 5
 
