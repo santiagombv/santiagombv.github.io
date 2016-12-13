@@ -8,8 +8,9 @@ published: true
 - [Clase 1](http://santiagombv.github.io/TeorR/Dteor1)
 - [Clase 2](http://santiagombv.github.io/TeorR/Dteor2)
 - [Clase 3](http://santiagombv.github.io/TeorR/Dteor3)
-- Clase 4
+- [Clase 4](http://santiagombv.github.io/TeorR/Dteor4)
 - Clase 5
+- Clase 6
 
 ## Descarga de todo el material práctico [aquí](https://github.com/santiagombv/DisenMet/archive/master.zip).   
 
