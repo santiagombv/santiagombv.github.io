@@ -15,3 +15,5 @@ published: true
 ## Descarga de todo el material práctico [aquí](https://github.com/santiagombv/cursoR/archive/master.zip)   
 
 ## [Link](https://github.com/santiagombv/cursoR/) al repo del curso.   
+
+## [Inscripciones 2017](https://goo.gl/forms/vH647ekRchWUuwel2)
