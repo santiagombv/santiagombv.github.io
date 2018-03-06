@@ -16,4 +16,4 @@ published: true
 
 ## [Link](https://github.com/santiagombv/cursoR/) al repo del curso.   
 
-## [Inscripciones 2017](https://goo.gl/forms/vH647ekRchWUuwel2)
+## [Inscripciones 2018](https://docs.google.com/forms/d/e/1FAIpQLSdz64Qjq435fnfgNXzMDhNGnVLVFn_xLQJzs1-N7L_FiWSgCg/viewform)
