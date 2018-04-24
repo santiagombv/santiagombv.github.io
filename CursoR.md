@@ -12,6 +12,9 @@ published: true
 - [Clase 5](http://santiagombv.github.io/TeorR/teor5)
 - [Clase 6](http://santiagombv.github.io/TeorR/teor6)
 
+## Prácticos
+- [Práctico_1](https://santiagombv.github.io/cursoR_practico/00_Instalacion.html)
+
 ## Descarga de todo el material práctico [aquí](https://github.com/santiagombv/cursoR/archive/master.zip)   
 
 ## [Link](https://github.com/santiagombv/cursoR/) al repo del curso.   
