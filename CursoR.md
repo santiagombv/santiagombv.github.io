@@ -13,7 +13,7 @@ published: true
 - [Clase 6](http://santiagombv.github.io/TeorR/teor6)
 
 ## Instalación
-- [Istalación](https://santiagombv.github.io/cursoR_practico/00_Instalacion.html)
+- [Instalación](https://santiagombv.github.io/cursoR_practico/00_Instalacion.html)
 
 ## Prácticos
 - [Práctico 1](https://santiagombv.github.io/cursoR_practico/practico01.html)
