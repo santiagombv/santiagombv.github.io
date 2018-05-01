@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Curso Introducción al Lenguaje R.
 permalink: /CursoR/
 published: true
@@ -17,6 +16,7 @@ published: true
 
 ## Prácticos
 - [Práctico 1](https://santiagombv.github.io/cursoR_practico/practico01.html)
+- [Práctico 2](https://santiagombv.github.io/cursoR_practico/practico02.html)
 
 ## Descarga de todo el material práctico [aquí](https://github.com/santiagombv/cursoR/archive/master.zip)   
 
