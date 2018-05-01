@@ -1,6 +1,8 @@
 ---
+layout: page
 title: Curso Introducción al Lenguaje R.
 permalink: /CursoR/
+published: true
 ---
 ## Links a las clases teóricas.
 - [Clase 1](http://santiagombv.github.io/TeorR/teor1)
