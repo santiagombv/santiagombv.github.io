@@ -1,11 +1,10 @@
 ---
 layout: page
 title: Introducción al Lenguaje R
-subtitle: Modelos Lineales y Fundamentos de Programación
 permalink: /CursoR/
 published: true
 ---
-
+### Modelos Lineales y Fundamentos de Programación
 ![header_R](/images/cactus.png)
 
 ### Links a las clases teóricas
@@ -19,3 +18,5 @@ published: true
 ### Link al [repo del curso](https://github.com/santiagombv/cursoR/)   
 
 ### [Inscripciones 2018](https://docs.google.com/forms/d/e/1FAIpQLSdz64Qjq435fnfgNXzMDhNGnVLVFn_xLQJzs1-N7L_FiWSgCg/viewform)
+
+*Doctorado en Ciencias Biológicas, Universidad Nacional de Córdoba.*
