@@ -4,7 +4,6 @@ title: Introducción al Lenguaje R
 permalink: /CursoR/
 published: true
 ---
-### Modelos Lineales y Fundamentos de Programación
 ![header_R](/images/cactus.png)
 
 ### Links a las clases teóricas
