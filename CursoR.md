@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introducción al Lenguaje R
+title: Introducción al Lenguaje R - 14-19 de mayo de 2018
 permalink: /CursoR/
 published: true
 ---
