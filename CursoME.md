@@ -9,7 +9,7 @@ published: true
 #### 24 al 28 de septiembre de 2018. Aula del Doctorado en Ciencias Biológicas (UNC), Av. Vélez Sársfield esq. Duarte Quiros, ciudad de Córdoba.
 
 ### Links a las clases teóricas
-[Clase 1](http://santiagombv.github.io/CursoME/MEteor1) 
+[Clase 1](http://santiagombv.github.io/cursoME/MEteor1) 
    
 ### Prácticos
 [Introducción](https://santiagombv.github.io/cursoME/practico01/practico01.html) 
