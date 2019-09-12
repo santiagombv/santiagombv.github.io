@@ -1,8 +1,4 @@
----
-title: Modelos Estadísticos Avanzados
-permalink: /CursoME/
-published: true
----
+
 ![header_R](/images/portada.png)
 
 #### Del 28 de octubre al 1 de noviembre de 2019. Aula del Doctorado en Ciencias Biológicas (UNC), Av. Vélez Sársfield esq. Duarte Quiros, Ciudad de Córdoba.
