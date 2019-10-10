@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nuevo Curso: Ecología y Evolución de las Interacciones Planta - Polinizador
+title: Ecología y Evolución de las Interacciones Planta - Polinizador
 ---
 
 Del 14 al 18 de octubre voy a estar dictando este curso junto a los amigos Federico Sazatornil y Carlos Pinto en la Universidad de San Francisco Xavier de Chuquisaca (Sucre, Bolivia).    
