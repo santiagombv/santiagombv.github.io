@@ -13,9 +13,9 @@ Así que va este post para modelados básicos. Luego subiré alguno de comparaci
 
 ***
 
-Una manera conveniente de representar el crecimiento exponencial es mediante la fórmula    
+Una manera conveniente de representar el crecimiento exponencial es mediante la fórmula. (Nota: estas fórmulas se construyeron con [esta app](https://alexanderrodin.com/github-latex-markdown/?math=N(t)%20%3D%20N_0%20e%5E%7B%5Clambda%20t%7D))    
 
-$$N(t) = N_0 e^{\lambda t}$$  
+![N(t) = N_0 e^{\lambda t}](https://render.githubusercontent.com/render/math?math=N(t)%20%3D%20N_0%20e%5E%7B%5Clambda%20t%7D)
 
 Donde $N(t)$ es la cantidad de determinado organismo (en este caso, personas infectadas con Covid-19) para un momento determinado del tiempo, llamado $t$;$e$ es la base de los logaritmos naturales (aproximadamente el número 2,7182...); $\lambda$ es el parámetro de crecimiento (si es mayor a 0) o de decrecimiento (si es menor) y $N_0$ es una constante que bpasicamente representa el número inicial de personas infectadas (cuando el tiempo es igual a 0, pensar que en ese caso $e^{\lambda t} = 0$).   
 
