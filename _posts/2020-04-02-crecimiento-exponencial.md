@@ -120,7 +120,7 @@ g2
 g2 + scale_y_log10()
 ```
    
-![g2](/images/post2020-04-02-g2b.png)   
+![g2b](/images/post2020-04-02-g2b.png)   
    
 Vemos aquí cómo el sesgo se empieza a corregir, aunque el ajuste no es lineal claramente. El tiempo de duplicación se estima ahora en 3.4808 días.   
 
