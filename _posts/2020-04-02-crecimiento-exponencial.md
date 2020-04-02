@@ -82,8 +82,9 @@ g1 <- g1 + geom_point(aes(x = fecha, y = casos_acum)) + theme_bw()
 g1 
 
 ```
+      
+![g1](/images/post2020-04-02-g1.png)      
    
-![g1](/images/post2020-04-02-g1.png)   
    
 ```r
 # cambiar a la escala logarítmica es muy fácil
@@ -91,8 +92,9 @@ g1 + scale_y_log10()
 
 ```
    
-![g1b](/images/post2020-04-03-g1b.png)   
-   
+![g1b](/images/post2020-04-02-g1b.png)   
+    
+    
 Conclusión del modelado vía *nls*: en un ajuste por mínimos cuadrados, los últimos puntos tienen más peso, sencillamente porque son valores más grandes, y la curva trata de aproximarlos mejor para dejar el mínimo residuo posible. Este modelado nos arroja un tiempo de duplicación de 4.646365 días.    
 
 ### Ajuste de una función lineal (en el espacio logarítmico)   
@@ -178,15 +180,19 @@ g3
 
 ```
 
+   
 ![g3](/images/post2020-04-02-g3.png)   
+   
 
 ```r
 # lo mismo en escala lineal
 g3 + scale_y_log10()
 
 ```
- 
-![g3](/images/post2020-04-02-g3b.png)   
+   
+   
+![g3b](/images/post2020-04-02-g3b.png)   
+   
 
 Los **GAM** ofrecen mejores maneras de representar curvas que se apartan de la linealidad (y de comparar curvas con diferentes complejidades). La defunción de los parámetros deja a mucha gente con sudor frío, pero de todas maneras pordemos calcular la pendiente de la curva en cada punto del *spline*. "Fácil", diferenciando en un intervalo pequeño (tomado a partir de la ayuda de *predict.gam*).   
 
@@ -226,6 +232,9 @@ lines(newx0, log(2)/(df+2*df.sd),lty=2)
 lines(newx0, log(2)/(df-2*df.sd),lty=2)
 layout(1)
 ```
+   
+![g4](/images/post2020-04-02-g4.png)    
+   
 
 ¿Cambió el comportamiento de la epidemia? Sí, pero no podemos predecir si seguirá de esta forma, ni fue ese el objetivo (vean los intervalos de confianza del tiempo de duplicación). ¿Podemos ver otras variables de la evolución de la epidemia? Sí, deberíamos. Desde el 25 de marzo se reporta el número de internados en terapia intensiva (terapia_acum en la [base de datos que subí a Github](https://github.com/santiagombv/COVID19AR_GAMs). Dado que existe un número finito de camas de este tipo, este número es el que determina la saturación del sistema de salud o no. También existen diferencias entre provincias que podemos examinar con **GAM** (tema del próximo post).
 
