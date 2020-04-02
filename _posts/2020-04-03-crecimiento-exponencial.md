@@ -53,6 +53,7 @@ dat2$dia <- c(1:nrow(dat2))
 # es 5 (lo fijamos arriba) y el parámetro de crecimiento debe
 # ser un número positivo (ya que modelamos crecimiento),
 # aunque no muy alto
+
 m1 <- nls(casos_acum ~ N0 * exp(lambda * dia),
           data = dat2,  
           start=list(N0=5, lambda=0.1))
@@ -75,12 +76,16 @@ dat3 <- dat2[, c("fecha", "dia", "casos_acum")]
 dat3$pred <- predict(m1, newdata = dat3)
 g1  <- ggplot(dat3, aes(x = dia, y = pred)) + geom_line()
 g1 <- g1 + geom_point(aes(x = dia, y = casos_acum)) + theme_bw() 
+```
+![g1](/images/post2020-04-03-g1.png)
 
+```r
 # cambiar a la escala logarítmica es muy fácil
 g1 + scale_y_log10()
 ```
+![g1b](/images/post2020-04-03-g1b.png)
 
-OBSERVACIÓN: en un ajuste por mínimos cuadrados como el que hace nls, los últimos puntos tienen más peso, sencillamente porque son valores más grandes, y la curva trata de aproximarlos mejor para dejar el mínimo resdiduo posible
+OBSERVACIÓN: en un ajuste por mínimos cuadrados como el que hace nls, los últimos puntos tienen más peso, sencillamente porque son valores más grandes, y la curva trata de aproximarlos mejor para dejar el mínimo residuo posible.   
 
 
 
