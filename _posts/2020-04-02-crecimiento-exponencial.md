@@ -23,7 +23,7 @@ Donde ![N(t)](https://render.githubusercontent.com/render/math?math=N(t)) es la 
 
 ### Datos
 
-Hice un [repositorio en Github](https://github.com/santiagombv/COVID19AR_GAMs) donde subí los datos que el Ministerio de Salud *nos comunica oralmente* en sus informes matutinos, o bien *coloca en un pdf* del cual hay que extraer los datos a mano, en sus informes vespertinos. Los links a los informes están en la misma base de datos. Los análisis están realizaddos con información actualizada al 1 de abril de 2020.
+Hice un [repositorio en Github](https://github.com/santiagombv/COVID19AR_GAMs) donde subí los datos que el Ministerio de Salud *nos comunica oralmente* en sus informes matutinos, o bien *coloca en un pdf* del cual hay que extraer los datos a mano, en sus informes vespertinos. Los links a los informes están en la misma base de datos. Los análisis están realizados con información actualizada al 1 de abril de 2020.
 
 ```r
 # uso Bitly para acortar el url, solo por cuestión de formato
