@@ -33,7 +33,7 @@ Hice un [repositorio en Github](https://github.com/santiagombv/COVID19AR_GAMs) d
 # columnas normalmente
 
 dat <- read.csv("https://bit.ly/33Z7Qk2", header = TRUE, 
-                colClasses=c("Date", rep(NA, 16)))
+                colClasses=c("Date", rep(NA, 17)))
 
 ```
 
