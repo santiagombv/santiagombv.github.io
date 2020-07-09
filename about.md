@@ -5,20 +5,19 @@ permalink: /about/
 published: true
 ---
 
-I am an associate researcher at the [Evolutionary Ecology Lab](http://www.efn.uncor.edu/departamentos/divbioeco/otras/bioflor/), (IMBIV, [National University of Córdoba](http://www.unc.edu.ar/) – [CONICET](http://www.conicet.gov.ar/), Argentina).
-The aim of my research program is the comprehension of how the multivariate floral phenotype evolves and, specially, how these complex traits change during a speciation process. Most of the methods I use involve R programming and advanced statistics.
-The extremely diversified [Neotropical *Salvia* species](https://www.flickr.com/photos/116058867@N03/albums/72157640372112274) provide an ideal system to study pollinator-mediated adaptive radiation, and ongoing process of speciation in some species (but I also like orchids!). In particular, I am interested in the evolution of traits that interact among them to perform a complex function.  
-    
-* Floral honesty. This complex trait results from the simultaneous expression of within-individual variability in floral reward and floral signals. I have published two papers ([here](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2010.02132.x/full) and [here](http://rspb.royalsocietypublishing.org/content/281/1782/20132934.short)) about the evolution of this trait in a macro and microevolutionary context.      
-* Phenotypic integration. Floral traits have to work together to perform pollen delivery and reception; but what does selection promote, integration or modularity? Transitions between pollination systems can be used to examined changes in the phenotypic integration and the variance-covariance matrix structure.   
-* Function of inflorescences. Plants usually have many flowers arranged in inflorescences, and it is obvious that inflorescence architecture evolves. Why this happens? Different pollinator guilds may select how sexual functions and floral rewards are arranged within inflorescences.   
+I am an associate researcher at the [Evolutionary Ecology Lab](http://www.efn.uncor.edu/departamentos/divbioeco/otras/bioflor/), ([IMBIV](http://imbiv.conicet.unc.edu.ar/), [National University of Córdoba](http://www.unc.edu.ar/) – [CONICET](http://www.conicet.gov.ar/), Argentina). I study the interface of ecology and evolution, focusing in plant-animal interactions, rapid evolution, local adaptation, speciation and diversification. To tackle this broad range of interests, I applied a variaty of methods: colour measurements, geometric morphometrics, phylogenetics and, especially, a wide range of statistical modelling in R.    
+Some questions that motivate my research are:   
 
-    
-        
-_Soy investigador adjunto en el [Laboratorio de Ecología Evolutiva](http://www.efn.uncor.edu/departamentos/divbioeco/otras/bioflor/), (IMBIV, [Universidad Nacional de Córdoba](http://www.unc.edu.ar/) – [CONICET](http://www.conicet.gov.ar/), Argentina).
-El objetivo de mi programa de investigación es comprender como el fenotipo floral multivariado evoluciona y, especialmente, cómo estos rasgos complejos cambian durante el proceso de especiación. La mayoría de los métodos que uso involucran programación en R y estadísticas avanzadas.
-Las extremadamente diversas [especies neotropicales de Salvia](https://www.flickr.com/photos/116058867@N03/albums/72157640372112274) proveen de un sistema ideal para estudiar radiación adaptativa mediada por polinizadores y procesos actuales de especiación en especies focales (pero también me gustan las orquídeas!). En particular, estoy interesado en la evolución de los rasgos the interactúan funcionalmente entre ellos._    
-    
-* _Honestidad floral. Este rasgo complejo resulta de la expresión simultánea de variabilidad intraindividual en las recompensas y señales florales. Publiqué dos trabajos ([aquí](http://onlinelibrary.wiley.com/doi/10.1111/j.1420-9101.2010.02132.x/full) y [aquí](http://rspb.royalsocietypublishing.org/content/281/1782/20132934.short)) sobre la evolución de este rasgo en un marco macro y microevolutivo._   
-* _Integración fenotípica. Los rasgos florales deben trabajar juntos para llevar a cabo la exportación y recepción de polen. Pero ¿qué promueve la selección natural,integración o mudularidad? Las transición estre sistemas de polinización pueden usarse para examinar cambios en la integración fenotípica y la estructura de la matriz de varianza-covarianza._    
-* _Función de la inflorescencia. Las flores no están solas dentro de una planta, y es obvio que la arquitectura de la inflorescencia evoluciona. ¿Por qué? Diferentes gremios de polinizadores pueden seleccionar cómo las funciones sexuales y las recompensas florales se disponene dentro de la inflorescencia._
++ How quantitative changes accumulates and transform into qualitative differences during speciation?   
++ Do trait association remain stable during evolutionary change? How to understand the dual role of trait associations as constraints and outcomes of natural selection?   
++ How complex traits arise and remain stable during evolution?
+
+---
+
+_Soy investigador adjunto en el [Laboratorio de Ecología Evolutiva](http://www.efn.uncor.edu/departamentos/divbioeco/otras/bioflor/), ( [IMBIV](http://imbiv.conicet.unc.edu.ar/), [Universidad Nacional de Córdoba](http://www.unc.edu.ar/) – [CONICET](http://www.conicet.gov.ar/), Argentina). Estudio la interfaz entre ecología y evolución, centrado en las interacciones planta-animal, evolución rápida, adaptación local, especiación y diversificación. Para abordar esta amplia gama de intereses, apliqué una variedad de métodos: mediciones de color, morfometría geométrica, filogenética y, especialmente, una amplia gama de modelos estadísticos en R.
+Algunas preguntas que motivan mi investigación son:_   
+
++ _¿Cómo se acumulan los cambios cuantitativos y se transforman en diferencias cualitativas durante la especiación?_   
++ _¿La asociación de rasgos permanece estable durante el cambio evolutivo? ¿Cómo entender el doble papel de las asociaciones de rasgos como restricciones y resultados de la selección natural?_   
++ _¿Cómo surgen los rasgos complejos y se mantienen estables durante la evolución?_   
+
