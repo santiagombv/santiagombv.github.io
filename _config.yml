@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-# Site Settings
+# Basic Site Settings
 locale                   : "en-US"
 title                    : "Santiago Benitez-Vieyra"
 title_separator          : "-"
@@ -84,13 +84,13 @@ author:
   avatar           : "profile3.jpg"
   bio              : "Evolutionary Biologist"
   location         : "Córdoba, Argentina"
-  employer         : "Instituto Multidisciplinario de Biología Vegetal (UNC-CONICET)"
+  employer         : "IMBIV (UNC-CONICET)"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4116-7969"
   googlescholar    : "https://scholar.google.com.mx/citations?user=W51uUzUAAAAJ&hl=es"
   researchgate     : "https://www.researchgate.net/profile/Santiago-Benitez-Vieyra"
   github           : "santiagombv"
   instagram        : "santiagombv"
-  bluesky          : "santiagombv.bsky.social"
+  bluesky          : "https://bsky.app/profile/santiagombv.bsky.social"
   pubmed           : 
   email            :
   uri              :
