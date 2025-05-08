@@ -69,6 +69,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://bsky.app/profile/santiagombv.bsky.social"
 
 
 # Analytics
@@ -84,7 +85,7 @@ author:
   avatar           : "profile3.jpg"
   bio              : "Evolutionary Biologist"
   location         : "Córdoba, Argentina"
-  employer         : "IMBIV (UNC-CONICET)"
+  employer         : 
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-4116-7969"
   googlescholar    : "https://scholar.google.com.mx/citations?user=W51uUzUAAAAJ&hl=es"
   researchgate     : "https://www.researchgate.net/profile/Santiago-Benitez-Vieyra"
