@@ -78,10 +78,10 @@
   img {
     width: 80%;          // scales with sidebar (adjust: 70–90% works well)
     height: auto;        // keep aspect ratio
-    max-width: 300px;    // optional cap so it doesn't get too big on wide screens
+    max-width: 225px;    // optional cap so it doesn't get too big on wide screens
     object-fit: cover;   // crop if non-square
     border-radius: 50%;  // circle
-    border: 2px solid $border-color;
+    border: 1px solid $border-color;
     padding: 5px;
   }
 }
